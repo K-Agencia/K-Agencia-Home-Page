@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Regular';
+  src: url("../fonts/monserrat/Montserrat-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Black';
+  src: url("../fonts/monserrat/Montserrat-Black.ttf");
+}
+
+@font-face {
+  font-family: 'Light';
+  src: url("../fonts/monserrat/Montserrat-Light.ttf");
+}
+
+@font-face {
+  font-family: 'Bold';
+  src: url("../fonts/monserrat/Montserrat-Bold.ttf");
+}
